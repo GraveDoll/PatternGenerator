@@ -2,6 +2,8 @@
 Generate test patterns for LCD monitor.
 
 ## Description
+Generate test patterns in a full screen mode.
+
 * Black
 * Gray 25%
 *	Gtray 50%
@@ -26,3 +28,7 @@ Generate test patterns for LCD monitor.
 
 ## Requirements
 WIndows 7 or Windows 10
+
+
+
+![_090218_125308_am](https://user-images.githubusercontent.com/28338314/44947706-4b5e0300-ae4c-11e8-98a8-e5bfcfa80168.jpg)
