@@ -1,0 +1,19 @@
+
+#include <windows.h>
+#include <commctrl.h>
+#include <richedit.h>
+#include "resource.h"
+
+
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+IDD_DIALOG1 DIALOG 0, 0, 191, 29
+STYLE DS_3DLOOK | DS_MODALFRAME | DS_SHELLFONT | WS_CAPTION | WS_VISIBLE | WS_POPUP | WS_SYSMENU
+CAPTION "Control Dialog"
+FONT 10, "@Meiryo UI"
+{
+    PUSHBUTTON      "Back", IDC_BUTTON1, 4, 13, 21, 14
+    DEFPUSHBUTTON   "Next", IDC_BUTTON2, 30, 13, 21, 14
+    PUSHBUTTON      "Hide", IDC_BUTTON3, 68, 13, 21, 14
+    LTEXT           "Pattern Type", IDC_STATIC1, 5, 2, 127, 9, NOT WS_GROUP | SS_LEFT
+    COMBOBOX        IDC_COMBO1, 97, 13, 88, 16, CBS_DROPDOWN | CBS_HASSTRINGS
+}
