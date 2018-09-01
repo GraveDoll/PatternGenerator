@@ -30,5 +30,5 @@ Generate test patterns in a full screen mode.
 WIndows 7 or Windows 10
 
 
-
+![_090218_011720_am](https://user-images.githubusercontent.com/28338314/44947814-01761c80-ae4e-11e8-915c-e99e073ed5be.jpg)
 ![_090218_125308_am](https://user-images.githubusercontent.com/28338314/44947706-4b5e0300-ae4c-11e8-98a8-e5bfcfa80168.jpg)
