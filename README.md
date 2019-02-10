@@ -27,7 +27,7 @@ Generate test patterns in a full screen mode.
 * Color gradation 256 steps
 
 ## Requirements
-WIndows 7 or Windows 10
+Windows 7 or Windows 10
 
 
 ![_090218_011720_am](https://user-images.githubusercontent.com/28338314/44947814-01761c80-ae4e-11e8-915c-e99e073ed5be.jpg)
